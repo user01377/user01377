@@ -1,3 +1,5 @@
+![Banner Image of Desert Sunset](f1.png)
+
 # Hello, I'm Vincent! 👋
 
 ### I'm a student at **RIT** studying **Computing and Information Technologies** and **Software Engineering**.
