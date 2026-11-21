@@ -6,6 +6,6 @@
 
 Currently, I'm focused on learning **Cloud Infrastructure, DevOps, and Site Reliability Engineering**.
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,aws,kubernetes,docker,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,react,docker,kubernetes,terraform,ansible,aws)](https://skillicons.dev)
 
 Feel free to explore my projects!
